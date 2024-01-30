@@ -1,0 +1,15 @@
+/home/halima/Documents/firstc#_project/coreConsoleProject/bin/Debug/net7.0/coreConsoleProject
+/home/halima/Documents/firstc#_project/coreConsoleProject/bin/Debug/net7.0/coreConsoleProject.deps.json
+/home/halima/Documents/firstc#_project/coreConsoleProject/bin/Debug/net7.0/coreConsoleProject.runtimeconfig.json
+/home/halima/Documents/firstc#_project/coreConsoleProject/bin/Debug/net7.0/coreConsoleProject.dll
+/home/halima/Documents/firstc#_project/coreConsoleProject/bin/Debug/net7.0/coreConsoleProject.pdb
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.csproj.AssemblyReference.cache
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.AssemblyInfoInputs.cache
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.AssemblyInfo.cs
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.csproj.CoreCompileInputs.cache
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.dll
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/refint/coreConsoleProject.dll
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.pdb
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/coreConsoleProject.genruntimeconfig.cache
+/home/halima/Documents/firstc#_project/coreConsoleProject/obj/Debug/net7.0/ref/coreConsoleProject.dll
