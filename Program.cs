@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine("hello halimah");// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 // variables and data types
 // string name = "halimah";
@@ -185,13 +185,13 @@
 
 
 // Declaring and initializing a jagged array
-int[][] jaggedArray = new int[3][];
-jaggedArray[0] = new int[] { 1, 2, 3 }; // First sub-array with 3 elements
-jaggedArray[1] = new int[] { 4, 5 };    // Second sub-array with 2 elements
-jaggedArray[2] = new int[] { 6, 7, 8, 9 };
+// int[][] jaggedArray = new int[3][];
+// jaggedArray[0] = new int[] { 1, 2, 3 }; // First sub-array with 3 elements
+// jaggedArray[1] = new int[] { 4, 5 };    // Second sub-array with 2 elements
+// jaggedArray[2] = new int[] { 6, 7, 8, 9 };
 
-// Accessing elements of the jagged array
-int element1 = jaggedArray[0][1];
-int element2 = jaggedArray[1][0];
-int element3 = jaggedArray[2][2];
+
+
+
+
 
