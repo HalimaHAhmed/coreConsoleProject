@@ -1,22 +1,28 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace coreConsoleProject
 {
-    public class student
+    public class Student
     {
-        // Data member
+        // Data members
         int studentId;
-        stirng studentName;
+        string studentName;
 
-        //member functions
-        Void displayDetails(){
+        // Member function to accept details
+        public void AcceptDetails()
+        {
+            Console.WriteLine("Enter student ID:");
+            studentId = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Student ID : "+ studentId);
-            Console.WriteLine("Student Name : " + studentName);
+            Console.WriteLine("Enter student name:");
+            studentName = Console.ReadLine();
         }
 
+        // Member function to display details
+        public void DisplayDetails()
+        {
+            Console.WriteLine("Student ID: " + studentId);
+            Console.WriteLine("Student Name: " + studentName);
+        }
     }
 }
